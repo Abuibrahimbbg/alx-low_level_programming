@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 int _isupper(int c) {
     // Check if the character is an uppercase letter based on ASCII values
     if (c >= 'A' && c <= 'Z') {
